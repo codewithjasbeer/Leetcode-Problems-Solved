@@ -22,3 +22,4 @@ public class Solution {
         return maxArea;
     }
 }
+//Area=min(height[i],height[j])×(j−i)
